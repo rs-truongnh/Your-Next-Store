@@ -39,3 +39,9 @@ next-env.d.ts
 .prototools
 
 .zed
+
+# .exe
+*.exe
+
+# debug folder
+debug/
